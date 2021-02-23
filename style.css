@@ -53,6 +53,7 @@ h2{
     
     .main{
         display: flex;
+        height: 500px;
     }
 
     .image{
